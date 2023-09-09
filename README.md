@@ -1,4 +1,4 @@
-# Potato Disease Classification
+# Potato-disease-detection
 
 ## Setup for Python:
 
